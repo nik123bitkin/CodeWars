@@ -1,2 +1,2 @@
-# CodeWars Challenger
+# CodeWars Challenges
 Simple CodeWars trainings
